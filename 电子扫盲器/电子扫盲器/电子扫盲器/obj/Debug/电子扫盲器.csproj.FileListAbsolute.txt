@@ -1,0 +1,12 @@
+D:\2\电子扫盲器\电子扫盲器\bin\Debug\电子扫盲器.exe.config
+D:\2\电子扫盲器\电子扫盲器\bin\Debug\电子扫盲器.exe
+D:\2\电子扫盲器\电子扫盲器\bin\Debug\电子扫盲器.pdb
+D:\2\电子扫盲器\电子扫盲器\bin\Debug\SharpCompress.dll
+D:\2\电子扫盲器\电子扫盲器\bin\Debug\System.Memory.dll
+D:\2\电子扫盲器\电子扫盲器\bin\Debug\ZstdSharp.dll
+D:\2\电子扫盲器\电子扫盲器\bin\Debug\System.Memory.xml
+D:\2\电子扫盲器\电子扫盲器\obj\Debug\电子扫盲器.csprojResolveAssemblyReference.cache
+D:\2\电子扫盲器\电子扫盲器\obj\Debug\电子扫盲器.MainForm.resources
+D:\2\电子扫盲器\电子扫盲器\obj\Debug\电子扫盲器.csproj.GenerateResource.Cache
+D:\2\电子扫盲器\电子扫盲器\obj\Debug\电子扫盲器.exe
+D:\2\电子扫盲器\电子扫盲器\obj\Debug\电子扫盲器.pdb
